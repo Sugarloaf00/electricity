@@ -1,0 +1,6 @@
+{
+  "name": "VoltMetric — Smart Electricity Meter & Tariff Analytics",
+  "description": "Real-time electricity meter overview, editable monthly meter reading ledger, tariff cost calculator, and year-over-year consumption analytics with CSV and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
